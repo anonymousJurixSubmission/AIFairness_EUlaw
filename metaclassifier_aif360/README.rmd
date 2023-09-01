@@ -1,1 +1,3 @@
+This is the metaclassifier introduced by Celis et al (2018). It's code implementation can be found here: https://aif360.readthedocs.io/en/stable/modules/generated/aif360.algorithms.inprocessing.MetaFairClassifier.html  
 
+We modified compas_dataset.py for our preprocessing needs and added law_dataset.py. Minor changes were made in the standard_dataset.py to find and load our datasets. 
