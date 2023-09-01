@@ -1,1 +1,5 @@
+**Dataset sources**
 
+1. Adult dataset: https://archive.ics.uci.edu/dataset/2/adult
+2. Compas dataset: we used the dataset version by Dressel and Farid (The accuracy, fairness, and limits of predicting recidivism, DOI: 10.1126/sciadv.aao5580).
+3. Law school admissions: http://www.seaphe.org/databases.php (Law School FOIA Dataset 1.1) 
